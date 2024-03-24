@@ -508,6 +508,7 @@ footer.footer-descr {
     display: inline-block;
     justify-content: center;
     align-items: center;
+    margin-right: 80px;
 }
 
 .footer-social-text {
